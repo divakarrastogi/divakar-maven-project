@@ -1,6 +1,6 @@
-# maven-project
-Source code for James Lee's Jenkins course.
+# divakar-maven-project
+Source code for Divakar's Maven Project.
 
-Check out our Latest DevOps PDF book.
+For more topics, go to the blog:
 
-https://www.level-up.one/devops-pdf-book
+https://redhatpanacia.blogspot.com
